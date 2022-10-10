@@ -3,7 +3,7 @@
 A colab version of the [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) repository.  
 Instructions included in the notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dsymbol/stable-diffusion-webui-colab/blob/main/StableDiffusionWebUI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuCicada/waifu-diffusion-webui-colab/blob/main/StableDiffusionWebUI.ipynb)
 
 **Stable Diffusion** is a deep learning, text-to-image model released by startup StabilityAI in 2022. 
 It is primarily used to generate detailed images conditioned on text descriptions. 
